@@ -1,0 +1,1 @@
+# qubes-tray-notification-icon
